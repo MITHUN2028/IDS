@@ -1,0 +1,16 @@
+# Ignore datasets
+*.csv
+*.pcap
+sample_data
+selected_instances
+
+# Ignore ML models
+*.pkl
+*.h5
+
+# Ignore notebooks
+*.ipynb
+
+# Ignore virtual env and Python cache
+venv/
+__pycache__/
